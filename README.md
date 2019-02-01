@@ -34,12 +34,14 @@ You need to copy private key in ganache-cli, then open metamask -> click on acco
 
 
 4. Change to the project directory 
-Important: keep the name proof-of-ex as the root of the project.
+
 
 cd proof-of-ex/
 
 
 5. Run the following commands:
+
+$ npm install openzeppelin-solidity
 
 $ npm install
 
