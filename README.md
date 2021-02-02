@@ -10,7 +10,7 @@ This dapp Will help to prove that a certain document/file was created on a parti
 
 FrontEnd: React JS.
 
-Backend: Ethereum Blockchain.
+Backend: Ethereum Blockchain (Solidity).
 
 2. Prerequisites
 
